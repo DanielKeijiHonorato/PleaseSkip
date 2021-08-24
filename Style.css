@@ -1,0 +1,85 @@
+body {
+
+	background: #D8D8D8
+
+}
+
+#banner {
+
+	width: 100%;
+
+}
+
+.principal {
+
+	 background: #2F4F4F;
+	 padding: 30px;
+
+}
+
+.TPrincipal {
+
+	padding-left: 20px;
+
+}
+
+h1 {
+
+ 
+
+
+}
+
+p {
+
+ text-align: center;
+
+}
+
+#adao {
+	 font-size: 20px
+}
+
+em strong {
+
+ color: red;
+
+}
+
+.bene {
+
+	font-style: italic
+
+}
+
+.bene0 {
+
+	background: #5F9EA0;
+	padding: 20px;
+}
+
+h2 {
+
+	text-align: center
+
+}
+
+ul {
+
+	display: inline-block;
+	vertical-align: top
+}
+
+
+.Bbene {
+
+	width: 50%;
+
+
+}
+
+h3 {
+
+	text-align: center;
+
+}
